@@ -2,3 +2,4 @@ Gery Resolution
 - belajar coding
 - belajar trading
 - membuat robot trading
+- membuat market crypto
