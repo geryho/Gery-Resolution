@@ -2,3 +2,4 @@ Rencana Belajar
 1. Tailwind CSS
 2. VUE
 3. Golang
+4. Svelte
